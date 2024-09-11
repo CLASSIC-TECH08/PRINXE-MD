@@ -13,7 +13,7 @@ if (!ownervb){
 
 const ownerlist = ownervb.split(';');
 
-global.owner = [];
+global.owner = ['2349113630782','Ï Â𝖒 Ã𝖉é 𝕾𝖆𝖒🕊️🗣️🤍'];
 for (let i = 0; i < ownerlist.length; i += 2) {
     const owner = [
         ownerlist[i],            
